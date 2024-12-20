@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.cgi": "c",
+    "plyconfig.json": "jsonc"
+  }
+}
